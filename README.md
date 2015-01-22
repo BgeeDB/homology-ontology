@@ -5,7 +5,7 @@ Welcome to the home for the ontology of homology and related concepts in biology
 See the related publication: 
 
     An ontology to clarify homology-related concepts
-    Roux, Julien et al.
+    Julien Roux and Marc Robinson-Rechavi
     Trends in Genetics , Volume 26 , Issue 3 , 99 - 102
 
 http://dx.doi.org/10.1016/j.tig.2009.12.012 
